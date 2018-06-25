@@ -1,14 +1,2 @@
-This repository contains the zip archives for various formats of the C++
-Annotations. Zip archives are tagged according to their release tags.
-
-The C++ Annotations's repository is https://github.com/fbb-git/cppannotations,
-the C++ Annotations's web-page is https://fbb-git.github.io/cppannotations/
-
-Downloading an archive:
-
-To download a particular zip archive click on the archive of your choice, then
-click 'View Raw'. A popup window should appear allowing you to download the
-selected archive (for an illustration, click on the viewraw.jpg entry).
-
-
-This repository does not define a web-page.
+This repository has moved to https://https://gitlab.com/fbb-git/cppannotations-zip
+and is not maintained at this location anymore.
